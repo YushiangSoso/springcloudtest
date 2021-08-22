@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="day0813-springcloud-eureka-server7001" />
+        <module name="day0819-springcloud-provider-hystrix-payment8001" />
+        <module name="day0819-springcloud-hystrix-dashboard9001" />
+        <module name="day0821-springcloud-gateway-gateway9527" />
+        <module name="day0814-springcloud-eureka-server7002" />
+        <module name="day0812-springcloud-provider-payment8001" />
+        <module name="day0819-springcloud-consumer-feign-hystrix-order80" />
+        <module name="day0818-springcloud-consumer-order-80-feign" />
+        <module name="day0814-springcloud-provider-payment8002" />
+        <module name="day0815-springcloud-order-80-zk" />
+        <module name="springcloud-api-commons" />
+        <module name="day0815-springcloud-provider-payment8004zoo" />
+        <module name="day0813-springcloud-order-80" />
+        <module name="day0815-springcloud-provider-payment8005-consul" />
+        <module name="day0815-springcloud-order-80-consul" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="day0808-springcloud-service-goods" target="1.8" />
+      <module name="day0808-springcloud-service-parent" target="1.8" />
+      <module name="day0812-springcloud" target="1.8" />
+      <module name="day0812-springcloud-provider-payment8001" target="1.8" />
+      <module name="day0812-springcloud-provider-payment8001 (1)" target="1.8" />
+      <module name="day0813-springcloud-eureka-server7001" target="1.8" />
+      <module name="day0813-springcloud-order-80" target="8" />
+      <module name="day0814-springcloud-eureka-server7002" target="1.8" />
+      <module name="day0814-springcloud-provider-payment8002" target="1.8" />
+      <module name="day0815-springcloud-order-80-consul" target="8" />
+      <module name="day0815-springcloud-order-80-zk" target="8" />
+      <module name="day0815-springcloud-provider-payment8003" target="1.8" />
+      <module name="day0815-springcloud-provider-payment8004zoo" target="8" />
+      <module name="day0815-springcloud-provider-payment8005-consul" target="8" />
+      <module name="day0818-springcloud-consumer-order-80-feign" target="8" />
+      <module name="day0819-springcloud-consumer-feign-hystrix-order80" target="8" />
+      <module name="day0819-springcloud-hystrix-dashboard9001" target="8" />
+      <module name="day0819-springcloud-hystrix-payment8001" target="11" />
+      <module name="day0819-springcloud-provider-hystrix-payment8001" target="8" />
+      <module name="day0821-springcloud-gateway-gateway9527" target="8" />
+      <module name="springcloud-api-commons" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="day0808-springcloud-service-goods" options="-parameters" />
+      <module name="day0808-springcloud-service-parent" options="-parameters" />
+    </option>
+  </component>
+</project>

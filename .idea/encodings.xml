@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/day0812-springcloud/day0812-springcloud-provider-payment8001/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/day0812-springcloud/day0812-springcloud-provider-payment8001/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/day0812-springcloud/day0813-springcloud-eureka-server7001/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/day0812-springcloud/day0813-springcloud-eureka-server7001/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/day0812-springcloud/day0813-springcloud-order-80/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/day0812-springcloud/day0813-springcloud-order-80/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/day0812-springcloud/day0814-springcloud-eureka-server7002/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/day0812-springcloud/day0814-springcloud-eureka-server7002/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/day0812-springcloud/day0814-springcloud-provider-payment8002/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/day0812-springcloud/day0814-springcloud-provider-payment8002/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/day0812-springcloud/day0815-springcloud-order-80-consul/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/day0812-springcloud/day0815-springcloud-order-80-consul/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/day0812-springcloud/day0815-springcloud-order-80-zk/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/day0812-springcloud/day0815-springcloud-order-80-zk/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/day0812-springcloud/day0815-springcloud-provider-payment8004zoo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/day0812-springcloud/day0815-springcloud-provider-payment8004zoo/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/day0812-springcloud/day0815-springcloud-provider-payment8005-consul/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/day0812-springcloud/day0815-springcloud-provider-payment8005-consul/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/day0812-springcloud/day0818-springcloud-consumer-order-80-feign/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/day0812-springcloud/day0818-springcloud-consumer-order-80-feign/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/day0812-springcloud/day0819-springcloud-consumer-feign-hystrix-order80/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/day0812-springcloud/day0819-springcloud-consumer-feign-hystrix-order80/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/day0812-springcloud/day0819-springcloud-hystrix-dashboard9001/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/day0812-springcloud/day0819-springcloud-hystrix-dashboard9001/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/day0812-springcloud/day0819-springcloud-provider-hystrix-payment8001/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/day0812-springcloud/day0819-springcloud-provider-hystrix-payment8001/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/day0812-springcloud/day0821-springcloud-gateway-gateway9527/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/day0812-springcloud/day0821-springcloud-gateway-gateway9527/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/day0812-springcloud/springcloud-api-commons/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/day0812-springcloud/springcloud-api-commons/src/main/resources" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

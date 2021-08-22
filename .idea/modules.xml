@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/day0812-springcloud/day0812-springcloud.iml" filepath="$PROJECT_DIR$/day0812-springcloud/day0812-springcloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day0812-springcloud/day0812-springcloud-provider-payment8001/day0812-springcloud-provider-payment8001.iml" filepath="$PROJECT_DIR$/day0812-springcloud/day0812-springcloud-provider-payment8001/day0812-springcloud-provider-payment8001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day0812-springcloud/day0813-springcloud-eureka-server7001/day0813-springcloud-eureka-server7001.iml" filepath="$PROJECT_DIR$/day0812-springcloud/day0813-springcloud-eureka-server7001/day0813-springcloud-eureka-server7001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day0812-springcloud/day0813-springcloud-order-80/day0813-springcloud-order-80.iml" filepath="$PROJECT_DIR$/day0812-springcloud/day0813-springcloud-order-80/day0813-springcloud-order-80.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day0812-springcloud/day0814-springcloud-eureka-server7002/day0814-springcloud-eureka-server7002.iml" filepath="$PROJECT_DIR$/day0812-springcloud/day0814-springcloud-eureka-server7002/day0814-springcloud-eureka-server7002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day0812-springcloud/day0814-springcloud-provider-payment8002/day0814-springcloud-provider-payment8002.iml" filepath="$PROJECT_DIR$/day0812-springcloud/day0814-springcloud-provider-payment8002/day0814-springcloud-provider-payment8002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day0812-springcloud/day0815-springcloud-order-80-consul/day0815-springcloud-order-80-consul.iml" filepath="$PROJECT_DIR$/day0812-springcloud/day0815-springcloud-order-80-consul/day0815-springcloud-order-80-consul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day0812-springcloud/day0815-springcloud-order-80-zk/day0815-springcloud-order-80-zk.iml" filepath="$PROJECT_DIR$/day0812-springcloud/day0815-springcloud-order-80-zk/day0815-springcloud-order-80-zk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day0812-springcloud/day0815-springcloud-provider-payment8004zoo/day0815-springcloud-provider-payment8004zoo.iml" filepath="$PROJECT_DIR$/day0812-springcloud/day0815-springcloud-provider-payment8004zoo/day0815-springcloud-provider-payment8004zoo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day0812-springcloud/day0815-springcloud-provider-payment8005-consul/day0815-springcloud-provider-payment8005-consul.iml" filepath="$PROJECT_DIR$/day0812-springcloud/day0815-springcloud-provider-payment8005-consul/day0815-springcloud-provider-payment8005-consul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day0812-springcloud/day0818-springcloud-consumer-order-80-feign/day0818-springcloud-consumer-order-80-feign.iml" filepath="$PROJECT_DIR$/day0812-springcloud/day0818-springcloud-consumer-order-80-feign/day0818-springcloud-consumer-order-80-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day0812-springcloud/day0819-springcloud-consumer-feign-hystrix-order80/day0819-springcloud-consumer-feign-hystrix-order80.iml" filepath="$PROJECT_DIR$/day0812-springcloud/day0819-springcloud-consumer-feign-hystrix-order80/day0819-springcloud-consumer-feign-hystrix-order80.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day0812-springcloud/day0819-springcloud-hystrix-dashboard9001/day0819-springcloud-hystrix-dashboard9001.iml" filepath="$PROJECT_DIR$/day0812-springcloud/day0819-springcloud-hystrix-dashboard9001/day0819-springcloud-hystrix-dashboard9001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day0812-springcloud/day0819-springcloud-provider-hystrix-payment8001/day0819-springcloud-provider-hystrix-payment8001.iml" filepath="$PROJECT_DIR$/day0812-springcloud/day0819-springcloud-provider-hystrix-payment8001/day0819-springcloud-provider-hystrix-payment8001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day0812-springcloud/day0821-springcloud-gateway-gateway9527/day0821-springcloud-gateway-gateway9527.iml" filepath="$PROJECT_DIR$/day0812-springcloud/day0821-springcloud-gateway-gateway9527/day0821-springcloud-gateway-gateway9527.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day0812-springcloud/springcloud-api-commons/springcloud-api-commons.iml" filepath="$PROJECT_DIR$/day0812-springcloud/springcloud-api-commons/springcloud-api-commons.iml" />
+    </modules>
+  </component>
+</project>
